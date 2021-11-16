@@ -54,3 +54,17 @@ main {
 .profile-pic img {
     border-radius: 100px;
 }
+
+.profile .blurbs .heading, .profile .friends .heading {
+    background: transparent;
+    color: rgba(70,70,74,1);
+    font-size: 1.50rem;
+}
+
+.blurbs .heading, .blurbs .inner .section h4 {
+    display: none;
+}
+
+h1 {
+    font-size: 1.5rem !important;
+}
